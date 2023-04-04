@@ -1,5 +1,6 @@
 .sidebar {
   flex: 3;
+  height: fit-content;
   background-color: #e6e3e6;
   margin: 20px;
   padding-bottom: 30px;
@@ -27,6 +28,8 @@
 }
 .sidebarItem > img {
   margin-top: 15px;
+  width: 250px;
+  height: 250px;
 }
 .sidebarItem > p {
   padding: 30px;
