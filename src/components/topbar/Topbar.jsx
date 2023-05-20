@@ -21,7 +21,7 @@ const Topbar = () => {
       <div className="topright">
         <img
           className="topImg"
-          src="https://images.pexels.com/photos/9408954/pexels-photo-9408954.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+          src="https://images.pexels.com/photos/6898860/pexels-photo-6898860.jpeg?auto=compress&cs=tinysrgb&w=400"
           alt=""
         />
         <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
