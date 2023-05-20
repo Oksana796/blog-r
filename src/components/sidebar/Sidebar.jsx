@@ -5,7 +5,7 @@ const Sidebar = () => {
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img src="https://images.pexels.com/photos/4691224/pexels-photo-4691224.jpeg?auto=compress&cs=tinysrgb&w=400" alt="" />
+        <img src="https://images.pexels.com/photos/95960/pexels-photo-95960.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div className="sidebarItem">
